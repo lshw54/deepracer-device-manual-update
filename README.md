@@ -1,0 +1,1 @@
+# deepracer-device-manual-update
